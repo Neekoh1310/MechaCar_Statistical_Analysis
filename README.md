@@ -26,3 +26,5 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 
   - Looking at the analysis results, Vehicle Length (vehicle_length) and Ground Clearance (ground_clearance) have a significant impact on fuel efficiency (miles per gallon). Both p-values show that they are statistically unlikely to be providing random amounts of variance to the linear model. 
   - The overall r-squared value of 0.7149 and the p-value below the 5% significance predict the mpg of MechaCar prototypes effectively on the linear model. 
+
+## Summary Statistics on Suspension Coils
