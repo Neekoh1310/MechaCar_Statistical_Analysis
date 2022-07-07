@@ -35,7 +35,7 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 - Total Summary of PSI
 ![Total Summary PSI](https://user-images.githubusercontent.com/102476861/177818266-226840bd-27b8-4b4a-8e5c-1361ea3390b1.png)
 
--Lot Summary (by lot)
+- Lot Summary (by lot)
 ![Lot Summary](https://user-images.githubusercontent.com/102476861/177818312-45e553e1-36f0-4734-ac20-0c8f93ef4e9d.png)
 
   - Looking at the Lot Summary, Lot 3 does not meet the design specifications for the MechaCar suspension coils. The variance of the suspension coils must not exceed 100 lbs per square inch.
@@ -43,14 +43,15 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
   
 ## T-Tests on Suspension Coils
 
-- Suspension Coil T-Test
+- Suspension Coil T-Test: P-value is above the .05 level of significance, thus we do not have sufficient evidence to reject the null hypothesis and the two means are similar.
 ![Suscoil T Test](https://user-images.githubusercontent.com/102476861/177820433-407e0336-a0fe-40dd-b604-15a40df08d78.png)
 
-- Lot 1 T-Test
+
+- Lot 1 T-Test: P-value is 1 so the sample from Lot 1 is statistically similar to the population mean.
 ![Lot 1 T Test](https://user-images.githubusercontent.com/102476861/177820457-f7b4ae4f-3ef3-49eb-8c1a-47ae82fc19af.png)
 
-- Lot 2 T-Test
+- Lot 2 T-Test: P-value is 0.6072 so there is not enough evidence to reject the null hypothesis, and the two samples are statistically similar.
 ![Lot2 T Test](https://user-images.githubusercontent.com/102476861/177821009-7092574e-9f21-4bea-950f-9290c8758284.png)
 
-- Lot 3 T-Test
+- Lot 3 T-Test: P-value is 0.04168 so we can refute the null hypothesis that the two are statistically similar and accept that there are differences between the sample means. 
 ![Lot 3 T Test](https://user-images.githubusercontent.com/102476861/177820499-0fd2cdd3-60d2-4c1f-bf4b-eac7efcc3198.png)
