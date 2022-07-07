@@ -50,7 +50,7 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 ![Lot 1 T Test](https://user-images.githubusercontent.com/102476861/177820457-f7b4ae4f-3ef3-49eb-8c1a-47ae82fc19af.png)
 
 - Lot 2 T-Test
-![Lot 2 T Test](https://user-images.githubusercontent.com/102476861/177820484-b1579e32-7676-4465-ba39-3cab89478ecf.png)
+
 
 - Lot 3 T-Test
 ![Lot 3 T Test](https://user-images.githubusercontent.com/102476861/177820499-0fd2cdd3-60d2-4c1f-bf4b-eac7efcc3198.png)
