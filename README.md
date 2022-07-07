@@ -23,3 +23,6 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 - Summary of Statistics (P-Value, R-Squared Values, Slope Coefficients):
 
 ![Summary pval rsq mpgregress](https://user-images.githubusercontent.com/102476861/177812599-c8371f4f-8813-4b85-b4f1-992044e5756b.png)
+
+  - Looking at the analysis results, Vehicle Length (vehicle_length) and Ground Clearance (ground_clearance) have a significant impact on fuel efficiency (miles per gallon). Both p-values show that they are statistically unlikely to be providing random amounts of variance to the linear model. 
+  - The overall r-squared value of 0.7149 and the p-value below the 5% significance predict the mpg of MechaCar prototypes effectively on the linear model. 
