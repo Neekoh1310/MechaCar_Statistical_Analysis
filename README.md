@@ -13,4 +13,6 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 
 ## Results 
 ## Linear Regression to Predict MPG
+- MechaCar Data and Linear Regression Data
+![5 Rows](https://user-images.githubusercontent.com/102476861/177812196-e0277943-4227-44b3-a6a4-75878d38fcc8.png)
 
