@@ -11,6 +11,6 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 ## Resources
 - RStudio, Data (MechaCar_mpg.csv, Suspension_Coil.csv)
 
-## Results and Summary
+## Results 
+## Linear Regression to Predict MPG
 
-- Here is the link to the website: https://neekoh1310.github.io/Bellybutton_Biodiversity/
