@@ -12,8 +12,14 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 - RStudio, Data (MechaCar_mpg.csv, Suspension_Coil.csv)
 
 ## Results 
+
 ## Linear Regression to Predict MPG
+
 - MechaCar Data and Linear Regression Data
+
 ![5 Rows](https://user-images.githubusercontent.com/102476861/177812196-e0277943-4227-44b3-a6a4-75878d38fcc8.png)
 ![Linear Reg to predict mpg](https://user-images.githubusercontent.com/102476861/177812421-852fd19c-f3f3-42ae-83c2-7ee05bb5234f.png)
 
+- Summary of Statistics (P-Value, R-Squared Values, Slope Coefficients):
+
+![Summary pval rsq mpgregress](https://user-images.githubusercontent.com/102476861/177812599-c8371f4f-8813-4b85-b4f1-992044e5756b.png)
