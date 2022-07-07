@@ -28,3 +28,12 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
   - The overall r-squared value of 0.7149 and the p-value below the 5% significance predict the mpg of MechaCar prototypes effectively on the linear model. 
 
 ## Summary Statistics on Suspension Coils
+
+- Suspension Coil Data (First 5 Rows)
+![PSI 5 Rows](https://user-images.githubusercontent.com/102476861/177818202-4a631c7d-c00e-4442-bdc7-787e9a075a2c.png)
+
+- Total Summary of PSI
+![Total Summary PSI](https://user-images.githubusercontent.com/102476861/177818266-226840bd-27b8-4b4a-8e5c-1361ea3390b1.png)
+
+-Lot Summary (by lot)
+![Lot Summary](https://user-images.githubusercontent.com/102476861/177818312-45e553e1-36f0-4734-ac20-0c8f93ef4e9d.png)
