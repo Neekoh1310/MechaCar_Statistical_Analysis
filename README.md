@@ -39,4 +39,18 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 ![Lot Summary](https://user-images.githubusercontent.com/102476861/177818312-45e553e1-36f0-4734-ac20-0c8f93ef4e9d.png)
 
   - Looking at the Lot Summary, Lot 3 does not meet the design specifications for the MechaCar suspension coils. The variance of the suspension coils must not exceed 100 lbs per square inch.
-  - Looking at the Lot Summary, Lot 1 is the group with the lowest statistical spread; therefore, it is the best performer. Lot 2's performance is acceptable as well. 
+  - Looking at the Lot Summary, Lot 1 is the group with the lowest statistical spread; therefore, it is the best performer. Lot 2's performance is acceptable as well.
+  
+## T-Tests on Suspension Coils
+
+- Suspension Coil T-Test
+![Suscoil T Test](https://user-images.githubusercontent.com/102476861/177820433-407e0336-a0fe-40dd-b604-15a40df08d78.png)
+
+- Lot 1 T-Test
+![Lot 1 T Test](https://user-images.githubusercontent.com/102476861/177820457-f7b4ae4f-3ef3-49eb-8c1a-47ae82fc19af.png)
+
+- Lot 2 T-Test
+![Lot 2 T Test](https://user-images.githubusercontent.com/102476861/177820484-b1579e32-7676-4465-ba39-3cab89478ecf.png)
+
+- Lot 3 T-Test
+![Lot 3 T Test](https://user-images.githubusercontent.com/102476861/177820499-0fd2cdd3-60d2-4c1f-bf4b-eac7efcc3198.png)
