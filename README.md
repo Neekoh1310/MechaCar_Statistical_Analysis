@@ -55,3 +55,6 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 
 - Lot 3 T-Test: P-value is 0.04168 so we can refute the null hypothesis that the two are statistically similar and accept that there are differences between the sample means. 
 ![Lot 3 T Test](https://user-images.githubusercontent.com/102476861/177820499-0fd2cdd3-60d2-4c1f-bf4b-eac7efcc3198.png)
+
+## Study Design: MechaCar vs Competition
+
