@@ -37,3 +37,6 @@ In this project, I was tasked to analyze a new prototype vehicle, the MechaCar, 
 
 -Lot Summary (by lot)
 ![Lot Summary](https://user-images.githubusercontent.com/102476861/177818312-45e553e1-36f0-4734-ac20-0c8f93ef4e9d.png)
+
+  - Looking at the Lot Summary, Lot 3 does not meet the design specifications for the MechaCar suspension coils. The variance of the suspension coils must not exceed 100 lbs per square inch.
+  - Looking at the Lot Summary, Lot 1 is the group with the lowest statistical spread; therefore, it is the best performer. Lot 2's performance is acceptable as well. 
